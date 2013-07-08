@@ -12,7 +12,7 @@
   006   '('    '5'    nop    nop    '['    nop    nop    nop     C
   007   '-'    '6'    nop    nop    '|'    nop    nop    nop     C
   008   232    '7'    nop    nop    '`'    nop    nop    nop     C
-  009   '_'    '8'    nop    nop    '\'    nop    fs     nop     C
+  009   '_'    '8'    nop    nop    '\'    nop    '\'    nop     C
   010   231    '9'    nop    nop    '^'    nop    nop    nop     C
   011   224    '0'    nop    nop    '@'    nop    nop    nop     C
   012   ')'    176    nop    nop    ']'    nop    nop    nop     C
