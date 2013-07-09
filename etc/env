@@ -5,3 +5,4 @@ bind "[1;5B" ed-move-to-end
 bind "[1;5D" ed-prev-word
 bind "[1;5C" em-next-word
 bind "" ed-delete-prev-word
+bind "[3;5~" em-delete-next-word
