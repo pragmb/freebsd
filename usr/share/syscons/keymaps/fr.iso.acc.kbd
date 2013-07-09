@@ -98,12 +98,12 @@
   092   nscr   pscr   debug  debug  nop    nop    nop    nop     O
   093   ralt   ralt   ralt   ralt   ralt   ralt   ralt   ralt    O
   094   fkey49 fkey49 fkey49 fkey49 fkey49 fkey49 fkey49 fkey49  O
-  095   fkey50 fkey50 fkey50 fkey50 fkey50 fkey50 fkey50 fkey50  O
+  095   fkey50 fkey50 fkey70 fkey70 fkey50 fkey50 fkey70 fkey70  O
   096   fkey51 fkey51 fkey51 fkey51 fkey51 fkey51 fkey51 fkey51  O
-  097   fkey53 fkey53 fkey53 fkey53 fkey53 fkey53 fkey53 fkey53  O
-  098   fkey55 fkey55 fkey55 fkey55 fkey55 fkey55 fkey55 fkey55  O
+  097   fkey53 fkey53 fkey73 fkey73 fkey53 fkey53 fkey73 fkey73  O
+  098   fkey55 fkey55 fkey75 fkey75 fkey55 fkey55 fkey75 fkey75  O
   099   fkey57 fkey57 fkey57 fkey57 fkey57 fkey57 fkey57 fkey57  O
-  100   fkey58 fkey58 fkey58 fkey58 fkey58 fkey58 fkey58 fkey58  O
+  100   fkey58 fkey58 fkey78 fkey78 fkey58 fkey58 fkey78 fkey78  O
   101   fkey59 fkey59 fkey59 fkey59 fkey59 fkey59 fkey59 fkey59  O
   102   fkey60 paste  fkey60 fkey60 fkey60 fkey60 fkey60 fkey60  O
   103   fkey61 fkey61 fkey61 fkey61 fkey61 fkey61 boot   fkey61  O
