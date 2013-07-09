@@ -1,2 +1,7 @@
 bind "[H" ed-move-to-beg
 bind "[F" ed-move-to-end
+bind "[1;5A" ed-move-to-beg
+bind "[1;5B" ed-move-to-end
+bind "[1;5D" ed-prev-word
+bind "[1;5C" em-next-word
+bind "" ed-delete-prev-word
